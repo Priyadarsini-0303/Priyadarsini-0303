@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Building a portfolio that showcases my passion for AI and my ability to solve real-world problems.
 - 🌱 I’m currently learning how to master the art of creating elegant and efficient code.
 - 👯 I’m looking to collaborate on projects that involve building innovative and user-friendly applications.
