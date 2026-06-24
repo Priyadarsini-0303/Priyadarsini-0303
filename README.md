@@ -29,4 +29,4 @@ To contribute to the future of **Trustworthy AI** by evaluating, validating, and
 
 📫 **[priyadarsini.nataraj@gmail.com](mailto:priyadarsini.nataraj@gmail.com)**
 
-💼 **LinkedIn:** Add your LinkedIn URL
+
