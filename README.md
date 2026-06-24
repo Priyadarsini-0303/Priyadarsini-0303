@@ -1,8 +1,8 @@
 # Hi 👋 I'm Priyadarsini Natarajan
 
-### 🧪 AI Testing Engineer in the Making
+### 🧪 A AI Quality Engineering Enthusiast
 
-Passionate about ensuring **AI systems** are reliable, trustworthy, and production-ready through **AI Testing**, **LLM Evaluation**, and **Quality Engineering**.
+**"Intelligence without reliability is innovation unfinished."** While AI development pushes the boundaries of what's possible, AI testing ensures those possibilities can be trusted. I'm passionate about exploring **AI Testing**, **LLM Evaluation**, and **Quality Engineering** to help build intelligent systems that are not only powerful, but also reliable, trustworthy, and production-ready.
 
 ## 🔍 Focus Areas
 
@@ -18,15 +18,15 @@ Passionate about ensuring **AI systems** are reliable, trustworthy, and producti
 * AI Testing Projects
 * LLM Evaluation Workflows
 * Automation Frameworks
-* Quality Engineering Resources
 * AI Reliability Experiments
+* Quality Engineering Resources
 
-## 🎯 Goal
+## 🎯 Mission
 
-To specialize in evaluating, validating, and improving intelligent systems at scale.
+To contribute to the future of **Trustworthy AI** by evaluating, validating, and improving intelligent systems at scale.
+
+## 🤝 Let's Connect
 
 📫 **[priyadarsini.nataraj@gmail.com](mailto:priyadarsini.nataraj@gmail.com)**
 
----
-
-> **"Great software isn't just built. It's tested, trusted, and continuously improved."**
+💼 **LinkedIn:** Add your LinkedIn URL
