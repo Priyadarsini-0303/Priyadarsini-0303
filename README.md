@@ -2,7 +2,7 @@
 
 ### 🧪 A AI Quality Engineering Enthusiast
 
-**"Intelligence without reliability is innovation unfinished."** While AI development pushes the boundaries of what's possible, AI testing ensures those possibilities can be trusted. I'm passionate about exploring **AI Testing**, **LLM Evaluation**, and **Quality Engineering** to help build intelligent systems that are not only powerful, but also reliable, trustworthy, and production-ready.
+**"Intelligence without reliability is innovation unfinished."** perfectly captures how I view the role of AI in the real world. While AI development pushes the boundaries of what's possible, AI testing ensures those possibilities can be trusted. I'm passionate about exploring **AI Testing**, **LLM Evaluation**, and **Quality Engineering** to help build intelligent systems that are not only powerful, but also reliable, trustworthy, and production-ready.
 
 ## 🔍 Focus Areas
 
