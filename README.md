@@ -1,8 +1,32 @@
-## Hi there 👋
+# Hi 👋 I'm Priyadarsini Natarajan
 
-- 🔭 I’m currently working on Building a portfolio that showcases my passion for AI and my ability to solve real-world problems.
-- 🌱 I’m currently learning how to master the art of creating elegant and efficient code.
-- 👯 I’m looking to collaborate on projects that involve building innovative and user-friendly applications.
-- 🤔 I’m looking for help with staying up-to-date with the latest advancements in the AI field.
-- 💬 Ask me about my passion for assistive technologies and how AI can be used to improve accessibility for everyone.
-- 📫 Reach out to me via email at **priyadarsini.nataraj@gmail.com** or connect with me on LinkedIn!
+### 🧪 AI Testing Engineer in the Making
+
+Passionate about ensuring **AI systems** are reliable, trustworthy, and production-ready through **AI Testing**, **LLM Evaluation**, and **Quality Engineering**.
+
+## 🔍 Focus Areas
+
+* 🤖 AI Testing & Validation
+* 📊 LLM Evaluation
+* 🧠 Generative AI Systems
+* 🔗 RAG & Agentic AI
+* ⚙️ Test Automation
+* 🐍 Python for Quality Engineering
+
+## 🚀 Currently Building
+
+* AI Testing Projects
+* LLM Evaluation Workflows
+* Automation Frameworks
+* Quality Engineering Resources
+* AI Reliability Experiments
+
+## 🎯 Goal
+
+To specialize in evaluating, validating, and improving intelligent systems at scale.
+
+📫 **[priyadarsini.nataraj@gmail.com](mailto:priyadarsini.nataraj@gmail.com)**
+
+---
+
+> **"Great software isn't just built. It's tested, trusted, and continuously improved."**
